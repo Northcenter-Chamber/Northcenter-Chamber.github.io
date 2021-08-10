@@ -48,6 +48,10 @@ header.masthead {
     top: -5rem;
     right: 35%;
   }
+  .logo-main {
+    z-index: 2;
+    position: relative;
+  }
 }
 
 @media (min-width: 992px) {
