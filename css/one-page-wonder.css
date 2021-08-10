@@ -114,6 +114,11 @@ header.masthead .bg-circle-4 {
   right: 35%;
 }
 
+header.masthead .logo-main {
+  z-index: 2;
+  position: relative;
+}
+
 @media (min-width: 992px) {
   header.masthead {
     padding-top: calc(10rem + 55px);
